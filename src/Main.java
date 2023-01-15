@@ -9,12 +9,14 @@ public class Main {
         return x*x*x*x;
     }
 
+
     public static void main(String[] args) {
 
         System.out.println(sequareX(5));
         System.out.println(cubeX(5));
         System.out.println(cubeX(6));
         System.out.println(cubeX(7));
+        System.out.println("Hello world!");
 
 
 
