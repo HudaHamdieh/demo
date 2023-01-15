@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d747780-3cec-4f73-a2a7-6231eb4e120e" name="Changes" comment="&quot;cubX function is added and tested&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8d747780-3cec-4f73-a2a7-6231eb4e120e" name="Changes" comment="&quot;degree five function is removed&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="06ab40cb-5fec-437c-9c05-3c279a3afc52" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,11 +61,80 @@
       <option name="project" value="LOCAL" />
       <updated>1673745733456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;new test is added&quot;">
+      <created>1673748124356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673748124356</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;new test is added&quot;">
+      <created>1673748191491</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673748191491</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;degree five function is added&quot;">
+      <created>1673749485183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673749485183</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;degree five function is removed&quot;">
+      <created>1673749909948</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673749909948</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;cubX function is added and tested&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;cubX function is added and tested&quot;" />
+    <MESSAGE value="&quot;new test is added&quot;" />
+    <MESSAGE value="&quot;degree five function is added&quot;" />
+    <MESSAGE value="&quot;degree five function is removed&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;degree five function is removed&quot;" />
   </component>
 </project>
