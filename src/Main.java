@@ -5,6 +5,9 @@ public class Main {
     private static int cubeX(int x){
         return x*x*x;
     }
+    private static int degreeFive(int x){
+        return x*x*x*x*x;
+    }
     private static int degreeFour(int x){
         return x*x*x*x;
     }
