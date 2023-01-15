@@ -12,6 +12,9 @@ public class Main {
 
         System.out.println(sequareX(5));
         System.out.println(cubeX(5));
+        System.out.println(degreeFour(5));
+
+
 
     }
 }
